@@ -1,0 +1,2 @@
+rootProject.name='LP3-Quiz1'
+include ':app'
