@@ -43,14 +43,21 @@ At the same time, the Android app has 2 Notification channels, as shown in the A
 2. <b>Clone/Check-out</b> your fork version of this repository (https://github.com/your_username/LP3-XXXX) using Android Studio (find it in your own GitHub account!)
 3. Create a <b>branch</b>, make changes → commit to the created branch → then push (reminder: push to your fork version, not this!)
 4. A good practice, check if the push is successful, using a web browser (here: https://github.com/your_username/LP3-XXXX)
-5. Create a pull request, to get your inserted code to this repository. For example, something like this:
+5. Create a pull request, to get your inserted code to this repository.
 
-![](docs/4863fca2.png)
+>For example, something like this:
+>
+>![](docs/4863fca2.png)
+>
+>Followed by the message, and create it.
+>
+>![](docs/86bb331d.png)
 
 6. Done. You can check if the pull request has been created here (https://github.com/C347-2020/LP3-XXXX).
 
-*<b>Note</b>: If you happen to mess up your repository, just delete and fork it again :)
-
+```
+Note: If you happen to mess up your repository, just delete and fork it again :)
+```
 
 #### Resources:
 
